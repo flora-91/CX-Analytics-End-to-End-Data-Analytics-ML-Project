@@ -1,0 +1,39 @@
+﻿Variable;Importancia
+num__TIENE_RECLAMO;13,26
+cat__NOMBRE_SERVICIO_Guardia;6,13
+num__DIAS_RESOLUCION;4,85
+cat__NOMBRE_PLAN_Corporate;4,68
+num__COPAGO;3,63
+cat__NOMBRE_PLAN_Essential;3,25
+cat__NOMBRE_PLAN_Premium;3,2
+cat__ZONA_Centro;3,14
+num__ANTIGUEDAD_MESES;3,13
+num__EDAD;3,12
+num__VALOR_PLAN;2,96
+cat__ZONA_Sur;2,85
+cat__ZONA_Norte;2,83
+cat__SEXO_Masculino;2,82
+cat__SEXO_Femenino;2,79
+cat__ZONA_Oeste;2,67
+cat__NOMBRE_PLAN_Plus;2,47
+cat__SEGMENTO_Intermedio;2,42
+num__TIEMPO_ESPERA;2,35
+cat__SEGMENTO_Premium;2,23
+cat__SEXO_Otro;2,06
+cat__NOMBRE_SERVICIO_Laboratorio;1,94
+cat__NOMBRE_SERVICIO_Vacunación;1,85
+cat__NOMBRE_SERVICIO_Traumatología;1,84
+cat__NOMBRE_CENTRO_Sanatorio Parque Salud;1,78
+cat__NOMBRE_SERVICIO_Diagnóstico por Imágenes;1,7
+num__CANCELADO;1,69
+cat__NOMBRE_CENTRO_Centro Médico Norte;1,67
+cat__NOMBRE_SERVICIO_Cardiología;1,66
+cat__NOMBRE_SERVICIO_Pediatría;1,65
+num__ASISTIO;1,63
+cat__NOMBRE_CENTRO_Clínica del Valle;1,63
+cat__NOMBRE_CENTRO_Instituto Médico Central;1,56
+cat__NOMBRE_SERVICIO_Consultorio Clínico;1,52
+cat__CATEGORIA_Corporativo;1,06
+cat__CATEGORIA_Individual;0,0
+cat__SEGMENTO_Empresas;0,0
+cat__SEGMENTO_Básico;0,0
