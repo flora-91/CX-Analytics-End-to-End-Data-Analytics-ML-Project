@@ -298,4 +298,4 @@ It includes:
 Data Analyst | Business Intelligence | Customer Experience Analytics
 
 GitHub: https://github.com/flora-91
-LinkedIn: *(Add your LinkedIn profile here)*
+
